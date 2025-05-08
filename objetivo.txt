@@ -1,0 +1,9 @@
+Tela de login: 
+campos -> Username e senha
+botão -> cadastrar e logar
+link cadastro
+ 
+Tela de cadastro:
+campos -> email,Username, nome, data de nascimento, sexo
+botão -> criar
+link login
